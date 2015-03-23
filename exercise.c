@@ -10,5 +10,8 @@ printf("hello world!");
     
     printf("one more");
     
+    
+    //주석을 달았어요
+    //English
 return 0;
 }
